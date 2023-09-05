@@ -1,5 +1,4 @@
 name: Infra Deployment Template
-
 on:
   workflow_call:
     inputs:
